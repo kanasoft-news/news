@@ -1,6 +1,32 @@
 [
-	{
+    {
         "title": "Title! News! 1",
+        "message": "Mamas Empire!!! Mamas 49 Empire! Go and check our new fresh press! Empire!!! Kanasoft!",
+        "link": "https://www.ynet.co.il",
+        "imgUri": "https://source.unsplash.com/e4lD50CCekA/1600x900"
+    },
+    {
+        "title": "Title! News! 2",
+        "message": "Mamas Empire!!! Mamas 49 Empire! Go and check our new fresh press! Empire!!! Kanasoft!",
+        "imgUri": "https://source.unsplash.com/e4lD50CCekA/1600x900"
+    },
+    {
+        "message": "Mamas Empire!!! Mamas 49 Empire! Go and check our new fresh press! Empire!!! Kanasoft!",
+        "link": "https://www.ynet.co.il",
+        "imgUri": "https://source.unsplash.com/e4lD50CCekA/1600x900"
+    },
+    {
+        "title": "Title! News! 4",
+        "link": "https://www.ynet.co.il",
+        "imgUri": "https://source.unsplash.com/e4lD50CCekA/1600x900"
+    },
+    {
+        "title": "Title! News! 5",
+        "message": "Mamas Empire!!! Mamas 49 Empire! Go and check our new fresh press! Empire!!! Kanasoft!",
+        "link": "https://www.ynet.co.il"
+    },
+    {
+        "title": "Title! News! 6",
         "message": "Mamas Empire!!! Mamas 49 Empire! Go and check our new fresh press! Empire!!! Kanasoft!",
         "link": "https://www.ynet.co.il",
         "imgUri": "https://source.unsplash.com/e4lD50CCekA/1600x900"
